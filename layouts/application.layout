@@ -169,7 +169,7 @@
     
     #description_section{
           
-        background: background: #dc0ebf5;
+       background: #dc0ebf5;
     }
     
     .section_header{}
