@@ -194,6 +194,7 @@
     
     }
      .site-map-section a:hover {
+         color: #dc0ebf5;
      }
     @media (max-width: 767px) {
         .main_window{
