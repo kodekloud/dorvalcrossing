@@ -164,13 +164,13 @@
     /*inside page banners*/
     .page_banner{
         color:black;
-        background: #dc0ebf5;
+        background: #05cdff;
         box-shadow: 0px 0px 30px lightgray inset;
     }
     
     #description_section{
           
-       background: #dc0ebf5;
+       background: #05cdff;
     }
     
     .section_header{}
