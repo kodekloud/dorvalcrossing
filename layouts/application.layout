@@ -181,7 +181,7 @@
     
     
     .right_column_header {
-        color: #66bf6b;
+        color: #05aed9;
     }
     
     .navbar .nav li a:hover {
