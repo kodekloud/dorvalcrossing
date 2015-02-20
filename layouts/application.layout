@@ -119,6 +119,7 @@
     .btn-primary:hover{
         background: #66bf6b!important;
         border-color:#419d44 !important;
+        color:white !important;
         text-align:center;
     }
     
