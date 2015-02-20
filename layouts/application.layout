@@ -150,11 +150,11 @@
     /*social media icon inner color*/
     #social_media_wrapper a{
         color:white;
-        background:#66bf6b;
+        background:#1092CB;
     
     }
     #social_media_wrapper a:hover{
-        color:#66bf6b !important;
+        color:#1092CB !important;
         background:white;
     }
     .map-mouse-over{
