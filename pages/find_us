@@ -14,6 +14,10 @@
         <div class="left_column">
             <iframe class="gmap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11586.111216667256!2d-79.703005!3d43.449577!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb73b465ee6b756f3!2sDorval+Crossing+Civitan+Farmers+Market!5e0!3m2!1sen!2sca!4v1424725022271" style="border:0" title="Map">Directions</iframe>
         </div>
+        <h2>How to Get Here</h2>
+        <p>We're easy to drive to and there's plenty of parking when you get here! Just follow Highway 403 / the QEW from either the east or west, take the exit at Dorval Drive and continue north. You can't miss Dorval Crossing, we're located on both sides of the street!</p>
+        <h2>Public Transit</h2>
+        <p>Dorval Crossing is serviced by Oakville Transit Bus 18 (Glen Abbey South) and Bus 28 (Glen Abbey North). Both busses connect to the Oakville Go Station. Visit <a href="oakvilletransit.com" target="_blank">oakvilletransit.com</a> for bus maps and schedules.</p>
         <div class="right_column">
             <p class="right_column_header">centre information</p>
             <div id="centre_info_container">
