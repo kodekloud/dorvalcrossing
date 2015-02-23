@@ -105,7 +105,9 @@
     header{
         background:#05aed9;
     }
-    
+    .breadcrumb > .active {
+color: #05aed9;
+}
     .main_window{
         border:40px solid #c0ebf5;
     }
