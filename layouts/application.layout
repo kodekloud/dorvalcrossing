@@ -130,7 +130,7 @@ color: #05aed9;
         color:white;
     }
     .view_button {
-        background:#66bf6b;
+        background:#66bf6b !important;
     }
     
     .navbar .nav li a:hover,.navbar .nav li a:active{
