@@ -129,6 +129,9 @@ color: #05aed9;
     .navbar .nav li a{
         color:white;
     }
+    .view_button {
+        background:#66bf6b;
+    }
     
     .navbar .nav li a:hover,.navbar .nav li a:active{
         color:#c8c8c8;
