@@ -20,21 +20,21 @@
                     </div>
                     <div class="col-sm-6 col-md-6">
                         <label for="email" >E-mail</label>
-                        <input name="cm-tkuikd-tkuikd" id="email" class="form-control" type="text" value="" required>
+                        <input name="cm-tukdhl-tukdhl" id="email" class="form-control" type="text" value="" required>
                     </div>
                 </div>
                 <br>
                 <div class="row" style="margin-left:-15px;margin-right:-15px">
                     <div class="col-sm-12 col-md-12">
                         <label for="subject">Subject</label>
-                        <input name="cm-f-jrhiil" id="subject" class="form-control" type="text" required>
+                        <input name="cm-f-jyjuut" id="subject" class="form-control" type="text" required>
                     </div>
                 </div>
                 <br>
                 <div class="row" style="margin-left:-15px;margin-right:-15px">
                     <div class="col-sm-12 col-md-12">
                         <label for="message">Message</label>
-                        <textarea name="cm-f-jrhiir" id="message" rows="8" class="form-control" required></textarea>
+                        <textarea name="cm-f-jyjuui" id="message" rows="8" class="form-control" required></textarea>
                     </div>
                     <div class="col-sm-12 col-md-12">
                     <br>
