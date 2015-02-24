@@ -12,7 +12,7 @@
     <div class="inside_page_content">
         <div class="left_column">
             <img class="inside_banner_image" alt="banner" src="http://kodekloud.s3.amazonaws.com/sites/54e7a90b6e6f6444d4020000/053d468cafb924a5f89898bb8f11b712/DCW_2013_53_edited.jpg"/>
-            <form name="contact_form" id="contact_form" method="post" action="http://mobilefringe.createsend.com/t/d/s/tkuikd/">
+            <form name="contact_form" id="contact_form" method="post" action="http://mobilefringe.createsend.com/t/d/s/tukdhl/">
                 <div class="row" style="margin-left:-15px;margin-right:-15px">
                     <div class="col-sm-6 col-md-6">
                         <label for="name">Name</label>
