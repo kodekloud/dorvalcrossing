@@ -172,13 +172,13 @@ color: #05aed9;
     /*inside page banners*/
     .page_banner{
         color:black;
-        background: #44d9fe;
+        background: #99e3f4;
         box-shadow: 0px 0px 30px lightgray inset;
     }
     
     #description_section{
           
-       background: #44d9fe;
+       background: #99e3f4;
     }
     
     .section_header{}
