@@ -101,15 +101,15 @@
     body{
         background:white;
     }
-   
+    
     header{
-        background:#e2f4fe;
+        background:#05aed9;
     }
     .breadcrumb > .active {
 color: #05aed9;
 }
     .main_window{
-        border:40px solid  #05aed9;
+        border:40px solid #c0ebf5;
     }
     .btn-primary{
         background: #66bf6b !important;
@@ -199,7 +199,7 @@ color: #05aed9;
     @media (max-width: 767px) {
         .main_window{
             width:100%;
-            border:15px solid  #05aed9 !important;
+            border:15px solid #c0ebf5 !important;
             border-top:none !important;
         }  
     }
