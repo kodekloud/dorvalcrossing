@@ -216,6 +216,7 @@ background-color: #FFFFFF ;
             store_details.y_coordinate = store_details.y_coordinate - 75;
             // checkErrorPage(store_details);
             var store_promos = getPromotionsForIds(store_details.promotions);
+            store_promos = store_promos.reverse();
             var jobs = getJobsForIds(store_details.jobs);
             $('#loading_screen').hide();
             $('#main_content').fadeIn();
