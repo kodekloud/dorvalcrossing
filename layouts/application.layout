@@ -225,7 +225,7 @@ color: #05aed9;
                             <div id="directory_dd" class="submenu" style="display:none">
                                 <ul>
                                     <li><a href="/stores">Store Directory</a></li>
-                                    <li><a href="/map">Centre Map</a></li>
+                                    <!--<li><a href="/map">Centre Map</a></li>-->
                                     
                                 </ul>    
                             </div>
