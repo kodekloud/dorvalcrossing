@@ -10,7 +10,10 @@
         Contact Us
     </div>
     <div class="inside_page_content">
-    <div class="show_mobile">
+    
+        <div class="left_column">
+            <img class="inside_banner_image" alt="banner" src="http://kodekloud.s3.amazonaws.com/sites/54e7a90b6e6f6444d4020000/d695061db3fa6496f821be0f16a76114/aboutus.png"/>
+            <div class="show_mobile">
             <p class="right_column_header">centre information</p>
             <div id="centre_info_container_mobile">
                 <script id="centre_info_template_mobile" type="x-tmpl-mustache/text">
@@ -37,8 +40,6 @@
                 </script>
             </div>
         </div>
-        <div class="left_column">
-            <img class="inside_banner_image" alt="banner" src="http://kodekloud.s3.amazonaws.com/sites/54e7a90b6e6f6444d4020000/d695061db3fa6496f821be0f16a76114/aboutus.png"/>
             <div id="send_contact_success" class="alert alert-success" role="alert" style="display:none">
               <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
               <span class="sr-only">Success</span>
