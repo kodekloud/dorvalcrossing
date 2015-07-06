@@ -104,12 +104,13 @@
                     <p class="directory_content">{{address1}}</p>
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                     <br>
-                      <p class="directory_content"><strong>Robin Telford</strong> 
+                      
+                
+                    <p class="directory_content"><strong>Dorval Crossing East</strong>
+                    <p class="directory_content"><strong>Robin Telford</strong> 
                     <br>Assistant Property Manager
                     <br>(905) 822-1709
                     <br><a href="mailto:jgracey@bentallkennedy.com">retelford@bentallkennedy.com</a></p>
-                    <br>
-                    <p class="directory_content"><strong>Dorval Crossing East</strong>
                     <br><strong>Garnet Peirson</strong> 
                     <br>Director of Leasing
                     <br>1.866.681.2715
