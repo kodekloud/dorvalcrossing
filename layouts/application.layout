@@ -682,5 +682,7 @@ color: #05aed9;
 			return false;
 		});
 	});
-    
+      $('.dropdown').on('click', function() {
+        $(this).toggleClass("open");
+    });
 </script>
